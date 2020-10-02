@@ -7,8 +7,8 @@ SETTINGS = {
     "server" => {
 
         "serverIP" => "0.0.0.0",
-        "serverAuthPort" => 9970,
-        "serverCtlPort" => 9971,
+        "serverAuthPort" => 2070,
+        "serverCtlPort" => 2071,
         "selectTimeout" => 1.0,
     }
 
